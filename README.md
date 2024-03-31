@@ -8,8 +8,9 @@
 I'm a Technical Instructor | Embedded Software Learner
 
 - 🎓 &nbsp; Graduated From Faculty of Computer Science - Helwan University
-- 💼 &nbsp; Working as C++ Instrucor and I'm pursuing my Automotive Embedded Systems Scholarship @ National Telecommunication Institute (NTI).
-- 🌱 &nbsp;I’m looking for any job that suits my technical knowledge 
+- 💼 &nbsp; Working as C++ Instructor 
+- 💼 &nbsp; pursuing my Automotive Embedded Systems Scholarship @ National Telecommunication Institute (NTI).
+- 🌱 &nbsp; I’m looking for any job that suits my technical knowledge 
 - 📫 How to reach me: [Linkedin](www.linkedin.com/in/zain-ibrahim-ahmed) [iCloud](zainibrahim99@icloud.com)
 
 <h3>  &nbsp;🛠️ Languages and Tools:</h3>
